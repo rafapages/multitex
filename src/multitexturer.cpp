@@ -27,6 +27,7 @@
 #include <chrono>
 
 #include <opencv2/photo/photo.hpp>
+#include <opencv2/opencv.hpp>
 
 #include "multitexturer.h"
 
